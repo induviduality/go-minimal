@@ -11,10 +11,4 @@ I used Adobe XD to work on the prototype of the website from scratch. My researc
 
 ## Brainstorming and UX work
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lQlAquY=/?moveToViewport=-2460,-1132,1716,1013" frameBorder="0" scrolling="no" allowFullScreen></iframe>
-
-![Optional Text](./images/Go Minimal - Action Plan - Roadmap.jpg)
-
-![Roadmap](github.com/indujaaaa/go-minimal/images/Go Minimal - Action Plan - Roadmap.jpg)
-
-
+![](Go Minimal - Action Plan - Roadmap.jpg)
