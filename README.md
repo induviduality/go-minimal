@@ -11,4 +11,11 @@ I used Adobe XD to work on the prototype of the website from scratch. My researc
 
 ## Brainstorming and UX work
 
-![](Go Minimal - Action Plan - Roadmap.jpg)
+### Brainstorming work
+![Brainstorming work](https://github.com/indujaaaa/go-minimal/blob/main/images/Go%20Minimal%20-%20Brainstorm.jpg)
+
+### Webpage Architecure
+![Page Architecture](https://github.com/indujaaaa/go-minimal/blob/main/images/Go%20Minimal%20-%20Page%20Architecture.jpg)
+
+### Course of Action
+![Roadmap](https://github.com/indujaaaa/go-minimal/blob/main/images/Go%20Minimal%20-%20Action%20Plan%20-%20Roadmap.jpg)
